@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido para uma assistência técnica, com o objetivo de 
 </video>
  
 <div align='center'>
-    <h1>Sistema de cadastro<h1>
+    <h1>Aplicação<h1>
     <img src='./demo.gif' title='demo catalogar e relatar' width='400px' />
 </div>
             
