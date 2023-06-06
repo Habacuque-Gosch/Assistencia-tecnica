@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido para uma assistência técnica, com o objetivo de 
  
 <div align='center'>
     <h1>Sistema de cadastro<h1>
-    <img src='./demo.gif' title='demo tela de login' width='400px' />
+    <img src='./demo.gif' title='demo catalogar e relatar' width='400px' />
 </div>
             
 ## Ferramentas utilizadas
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido para uma assistência técnica, com o objetivo de 
 para rodar esse projeto em sua máquina, favor baixar o Banco de dados
 
 
->Banco de dados: DataUser
+>Banco de dados: Data
 
 Logo após ter baixado, baixe a pasta de mídia do projeto
 
