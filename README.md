@@ -11,9 +11,15 @@ Esse projeto foi desenvolvido para uma assistência técnica, com o objetivo de 
     
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` criar um cadastro
+:heavy_check_mark: `Funcionalidade 1:` selecionar categoria e marca etc
 
-:heavy_check_mark: `Funcionalidade 2:` Logar
+:heavy_check_mark: `Funcionalidade 2:` fazer registro ou relatar um problema 
+ 
+:heavy_check_mark: `Funcionalidade 3:` salvar os dados do cliente em uma planilha
+
+:heavy_check_mark: `Funcionalidade 4:` catalogar produtos
+ 
+:heavy_check_mark: `Funcionalidade 5:` ver quantidades dos produtos filtrando pela categoria/marca/modelo
         
 <video width="420" height="340" controls="controls">
     <source src="./filme.mp4" type="video/mp4">
